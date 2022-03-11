@@ -872,6 +872,18 @@ footer span a:hover{
     .slider{
         width: 680px;
     }
+    
+    .shape-1{
+        display:hidden;
+    }
+    
+    .shape-2{
+        display:hidden;
+    }
+    
+    .shape-3{
+        display:hidden;
+    }
 }
 
 @media (max-width: 690px) {
