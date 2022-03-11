@@ -857,15 +857,6 @@ footer span a:hover{
         width: 850px;
     }
 
-    .contact .contact-content .left{
-        display: flex;
-        justify-content: center;
-        margin: 0 auto 60px;
-    }
-    .contact .right{
-        flex: 100%;
-    }
-
 
 
     
@@ -933,5 +924,13 @@ footer span a:hover{
         width: 35px;
         font-size: 23px;
         line-height: 38px;
+    }
+    .contact  .left{
+        display: flex;
+        justify-content: center;
+        margin: 0 auto 60px;
+    }
+    .contact .right{
+        flex: 100%;
     }
 }
