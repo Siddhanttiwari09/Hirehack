@@ -769,15 +769,21 @@ footer span a:hover{
     .teams .carousel .card{
         height: 500px;
     }
+
+    .shape-1{
+        display: hidden;
+    }
+
+    .shape-2{
+        display: hidden;
+    }
+
+    .shape-3{
+        display: hidden;
+    }
 }
 
 @media (max-width: 1130px) {
-    .shape-3{
-        left:30px;
-    }
-    .shape-1{
-        right:30px;
-    }
 
     .slider{
         width: 925px;
