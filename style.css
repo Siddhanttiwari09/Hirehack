@@ -770,17 +770,6 @@ footer span a:hover{
         height: 500px;
     }
 
-    .shape-1{
-        display: hidden;
-    }
-
-    .shape-2{
-        display: hidden;
-    }
-
-    .shape-3{
-        display: hidden;
-    }
 }
 
 @media (max-width: 1130px) {
@@ -865,6 +854,18 @@ footer span a:hover{
 @media (max-width: 860px) {
     .slider{
         width: 750px;
+    }
+    
+     .shape-1{
+        display: none;
+    }
+
+    .shape-2{
+        display: none;
+    }
+
+    .shape-3{
+        display: none;
     }
 }
 
